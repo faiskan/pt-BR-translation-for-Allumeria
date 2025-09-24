@@ -1,4 +1,4 @@
 pt-Br translation of Allumeria by Unomelon Games.
 
-# Installation:
-Simply place the main folder inside your game's translations directory, which is located inside of the "res" folder.
+# Instalação:
+Simplesmente coloque a pasta "pt-BR" dentro de allumeria\res\translations.
