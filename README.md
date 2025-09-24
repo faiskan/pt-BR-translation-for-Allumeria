@@ -1,4 +1,3 @@
-# Allumeria translation - pt-BR
 pt-Br translation of Allumeria by Unomelon Games.
 
 # Installation:
