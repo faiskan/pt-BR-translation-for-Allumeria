@@ -426,7 +426,7 @@ item.blank_block Bloco Vazio
 item.grid_block Bloco de Grade
 
 item.carving_knife Faca de Esculpir
-item.carving_knife.desc Use- para esculpir abóboras.
+item.carving_knife.desc Use-a para esculpir abóboras.
 item.spawn_fuzzy Gerar Fuzzy
 item.spawn_fuzzy_green Gerar Fuzzy da Floresta
 item.spawn_fuzzy_ice Gerar Fuzzy de Gelo
