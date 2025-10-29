@@ -250,6 +250,7 @@ item.watermelon Melancia
 item.brick Tijolo
 item.brick.desc Para jogar em coisas desagradáveis
 item.throwable_torch Tocha Arremessável
+item.throwable_torch.desc Arremesse para iluminar cavernas.
 item.squeaky_toy Brinquedo Barulhento
 item.whoopee_cushion Almofada de Pum
 item.air_horn Buzina
@@ -421,6 +422,39 @@ item.big_snowball.desc Gostaria de construir um homem de neve?
 item.snow_boss_base Batalha de Chefe da Neve
 item.evil_tophat Cartola Macabra
 item.evil_tophat.desc Elegantemente intimidadora.
+item.blank_block Bloco Vazio
+item.grid_block Bloco de Grade
+
+item.carving_knife Faca de Esculpir
+item.carving_knife.desc Use- para esculpir abóboras.
+item.spawn_fuzzy Gerar Fuzzy
+item.spawn_fuzzy_green Gerar Fuzzy da Floresta
+item.spawn_fuzzy_ice Gerar Fuzzy de Gelo
+item.spawn_hog Gerar Javali
+item.spawn_skeleton Gerar Esqueleto
+item.spawn_wizard Gerar Feiticeiro
+item.spawn_wizard_ice Gerar Feiticeiro de Gelo
+item.spawn_mushroomer Gerar Mushroomer
+item.spawn_nightflyer Gerar Nightflyer
+item.spawn_snowman Gerar Boneco de Neve
+item.spawn_stone_golem Gerar Golem de Pedra
+item.spawn_yeti Gerar Yeti
+item.spawn_zombie Gerar Zumbi
+item.spawn_pukeko Gerar Pukeko
+item.poo_gem Poo Gem
+item.lush_grass Grama Verdejante
+item.dry_grass Grama de Outono
+item.grass_tall_autumn Grama Alta de Outono
+item.grass_tall_lush Grama Alta Verdejante
+item.terracotta_tiles Blocos de Terracota
+item.ritual_torch Tocha de Ritual
+item.spawner_block Gerador de Monstro
+item.sign Placa
+item.glass_sign Placa de Grama
+item.screen_sign Placa de Tela
+item.invisible_sign Placa Invisível
+item.carved_pumpkin Abóbora
+item.pumpkin_seed Sementes de Abóbora
 
 item_tag.can_place Posicionável
 item_tag.can_consume Consumível
@@ -458,6 +492,7 @@ settings.autosave_enabled Salvamento Automático
 settings.autosave_indicator Indicador de Salvamento Automático
 settings.panicsave_enabled Criar Salvamento de Emergência ao Falhar
 settings.view_bobbing Balançar da Visão
+settings.view_bobbing_intensity Intensidade do Balançar
 settings.screen_shake Balançar da Tela
 settings.allow_noclip Atravessar Paredes
 settings.allow_infinite_item Itens Ilimitados
@@ -467,7 +502,21 @@ settings.mob_spawning Surgimento de Monstros
 settings.current_language Linguagem Atual
 settings.language_info Reinicie para ativar as opções de linguagem.
 settings.cave_culling Abate de Cavernas
+settings.header_controls Controles
+settings.header_keybinds Vincular Teclas
+settings.header_user_interface Interface
+settings.header_advanced Avançado
+settings.vsync VSync
+settings.pixel_scale Escala de Pixel
+settings.dither_shader Sombreamento Dither
+settings.header_basic Básico
+settings.invert_mouse Inverter Mouse
+settings.infinite_stamina Stamina Infinita
+settings.leaf_sway Movimento das Folhas
+settings.dynamic_light Luz Dinâmica
+settings.edit_adventure_blocks Editar Blocos de Aventura
 
+settings_category.camera Câmera
 settings_category.video Vídeo
 settings_category.audio Áudio
 settings_category.controls Controles
@@ -475,6 +524,9 @@ settings_category.misc Diversos
 settings_category.keybinds Atalhos do Teclado
 settings_category.cheats Trapaças
 settings_category.language Linguagem
+settings.show_day_count Mostrar Contador de Dias
+settings.disable_launch_message Desativar Mensagem de Boas-Vindas
+settings.disable_mobs Desativar Monstros
 
 control_hint.open_inventory Abrir Inventário
 control_hint.close_inventory Fechar Inventário
@@ -628,6 +680,7 @@ loading.tip21 Aperte F11 para alternar a tela cheia.
 loading.tip22 Jogar basquete durante uma batalha de chefe pode ser benéfico.
 loading.tip23 Beterrabas Vitais podem ser usadas para aumentar sua vida.
 loading.tip24 Flechas explosivas são perigosas em combate próximo.
+loading.tip25 Plantações somente crescerão se regadas.
 
 colour.clear Clarear
 colour.white Branco
