@@ -6,7 +6,7 @@ item.iron_ingot Barra de Ferro
 item.health_potion Poção de Vida
 item.empty Vazio
 item.stone Pedra
-item.unknown Desconheçido
+item.unknown Desconhecido
 item.dirt Terra
 item.grass Grama
 item.planks Tábuas
@@ -173,7 +173,7 @@ item.oak_log Tronco de Carvalho
 item.pine_log Tronco de Pinheiro
 item.pine_sapling Muda de Pinheiro
 item.birch_planks Tábuas de Bétula
-item.maple_planks Tàbuas de Ácer
+item.maple_planks Tábuas de Ácer
 item.pine_planks Tábuas de Pinheiro
 item.framed_glass Vidro Emoldurado
 item.red_brick Tijolos Vermelhos
@@ -410,7 +410,7 @@ item.structure_load Carregar Estrutura
 item.structure_latch Trava de Estrutura
 item.structure_marker Marcador de Estrutura
 item.structure_noreplace Estrutura Sem Substituição
-item.fluid.empty Fluído Vazio
+item.fluid.empty Fluido Vazio
 item.fluid.water Água
 item.fluid.lava Lava
 item.raygun_death Raio da Morte Instantânea
@@ -450,7 +450,7 @@ item.terracotta_tiles Blocos de Terracota
 item.ritual_torch Tocha de Ritual
 item.spawner_block Gerador de Monstro
 item.sign Placa
-item.glass_sign Placa de Grama
+item.glass_sign Placa de Vidro
 item.screen_sign Placa de Tela
 item.invisible_sign Placa Invisível
 item.carved_pumpkin Abóbora
@@ -632,7 +632,7 @@ effect.desc.flight Concede curtos momentos de vôo
 effect.regen_potion Regeneração (Poção)
 effect.desc.regen_potion Você está sendo curado lentamente.
 effect.armoured Blindado
-effect.desc.armoured Sua defesa é aumentada em 4 pointo.
+effect.desc.armoured Sua defesa é aumentada em 4 pontos.
 
 effect.concussion Concussão
 effect.desc.concussion Ai! Velocidade de movimento reduzida.
