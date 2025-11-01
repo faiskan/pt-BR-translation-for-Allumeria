@@ -715,3 +715,49 @@ colour.mint Verde Menta
 colour.baby_blue Azul Bebê
 colour.lavender Lavanda
 colour.pastel_pink Rosa Pastel
+
+item.basic_rod Vara de Pescar Básica
+item.basic_rod.desc Use-a para pescar!
+item.sturdy_rod Vara de Pescar Robusta
+item.sturdy_rod.desc Pode pescar peixes traiçoeiros.
+item.obsidian_rod Vara de Pescar de Obsidiana
+item.obsidian_rod.desc Peixes me temem.
+item.water_walking_potion Poção de Caminhar sobre as Águas
+item.water_walking_potion.desc Permite que você caminhe sobre as águas.
+item.crate_potion Poção de Caixote
+item.crate_potion.desc Aumenta a chance de pescar caixotes.
+item.fish_fillet Filé de Peixe
+item.gormet_fish_fillet Filé de Peixe Chique
+item.gormet_fish_fillet.desc Hmmmm!
+item.worm Minhoca
+item.worm.desc Use-a como isca para atrair peixes raros.
+item.bug_bait Isca de Inseto
+item.bug_bait.desc Use como isca para atrair peixes raros.
+item.rage_bait Isca Raivosa
+item.rage_bait.desc Atrai peixes raros, mas os deixa furiosos.
+item.magnetic_bait Isca Magnética
+item.magnetic_bait.desc Aumenta as chances de pescar caixotes.
+item.fish_catfish Bagre
+item.fish_walleye Picão-Verde
+item.fish_carp Carpa
+item.fish_tuna Atum
+item.fish_salmon Salmão
+item.fish_murray_cod Bacalhau-do-Rio
+item.fish_herring Arenque
+item.fish_minnow Peixinho
+item.fish_lanternfish Peixe-Lanterna
+item.fish_crystalfin Barbatana-de-Cristal
+item.fish_fangtooth Dente-de-Presa
+item.fish_blobfish Peixe-Gota
+item.fish_nautilus Náutilo
+item.fish_smoulderfish Peixe-Brasa
+item.fish_obsidieel Enguia-de-Obsidiana
+item.fish_stonefish Peixe-Pedra
+item.fish_rainbow_trout Truta-Arco-Íris
+item.packed_dirt Terra Compactada
+item.seaweed Alga
+item.lilypad Vitória-Régia
+item.elevator Elevador
+item.elevator.desc Pule ou agache para subir e descer.
+keybind.fish_left Puxar para a Esquerda (Pesca)
+keybind.fish_right Puxar para a Direita (Pesca)
